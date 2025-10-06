@@ -1,0 +1,5 @@
+{
+  "name": "AI Pitch Generator",
+  "description": "An AI-powered tool to help entrepreneurs answer the 'Twelve Questions to a Good Pitch' by providing a detailed product description. The app generates succinct answers, helping to create a compelling business pitch.",
+  "requestFramePermissions": []
+}
